@@ -12,6 +12,7 @@
 #include <linux/hrtimer.h>
 #include <linux/random.h>
 #include <linux/version.h>
+#include <string.h>
 
 #include "razermouse_driver.h"
 #include "razercommon.h"
