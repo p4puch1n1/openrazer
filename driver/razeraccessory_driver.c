@@ -10,7 +10,7 @@
 #include <linux/usb/input.h>
 #include <linux/hid.h>
 #include <linux/random.h>
-#include <string.h>
+#include <linux/string.h>
 
 #include "razeraccessory_driver.h"
 #include "razercommon.h"
