@@ -12,7 +12,7 @@
 #include <linux/dmi.h>
 #include <linux/input-event-codes.h>
 #include <linux/version.h>
-#include <string.h>
+#include <linux/string.h>
 
 #include "usb_hid_keys.h"
 
